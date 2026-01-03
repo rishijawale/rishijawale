@@ -1,7 +1,7 @@
 ## I'm Rushikesh Jawale 👋
 
 # 💫 About Me:
-🔭 I’m currently working onData Science fundamentals, Python, and ML basics👯<br> I’m looking to collaborate on Beginner-friendly Data Science & Python projects<br>🤝 I’m looking for help with Real-world ML projects and DSA problem-solving<br>🌱 I’m currently learning Python, Machine Learning, Statistics, and core CS subjects<br>💬 Ask me about Python and Data Science<br>⚡ Fun fact I’m highly consistent once I start something 😄
+🔭 I’m currently working on Data Science fundamentals, Python, and ML basics <br> 👯I’m looking to collaborate on Beginner-friendly Data Science & Python projects<br>🤝 I’m looking for help with Real-world ML projects and DSA problem-solving<br>🌱 I’m currently learning Python, Machine Learning, Statistics, and core CS subjects<br>💬 Ask me about Python and Data Science<br>⚡ Fun fact I’m highly consistent once I start something 😄
 
 
 ## 🌐 Socials:
