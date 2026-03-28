@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/W6mKZ5qX6SgAAAAC/ichigo-bankai.gif" width="500"/>
+  <img src="https://tenor.com/view/bleach-coolboy-gif-18352258" width="500"/>
 </p>
 ---
 
