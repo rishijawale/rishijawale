@@ -17,44 +17,17 @@
 - 🌐 Portfolio: **https://datarushi.me**
 
 ---
+# 💻 Tech Stack
 
-# 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
 
-### 👨‍💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
-
-### 📊 Data Analytics
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-
-### 📈 Visualization
-
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi" />
-</p>
-
-- Power BI  
-- Plotly  
-- Excel  
-
----
-
-# 🔥 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-</p>
-
----
 
 # 📊 GitHub Stats
 
@@ -110,11 +83,11 @@ More coming soon 🚀
 # 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOURLINK">
+<a href="https://linkedin.com/in/rushikesh-jawale">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/rishijawale">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
