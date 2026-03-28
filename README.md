@@ -18,6 +18,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.tenor.com/W6mKZ5qX6SgAAAAC/ichigo-bankai.gif" width="500"/>
+</p>
 
 # 💻 Tech Stack
 
@@ -36,21 +39,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
 
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rishijawale&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-# 🔥 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishijawale&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 📈 GitHub Streak
 
@@ -58,34 +46,6 @@
 <img src="https://streak-stats.demolab.com/?user=rishijawale&theme=tokyonight" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishijawale&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-# 📊 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rishijawale&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-# 📊 Featured Projects
-
-- 🔹 Customer Behavior Analysis  
-- 🔹 Fraud Detection Analysis  
-- 🔹 Sales Dashboard (Power BI)  
-- 🔹 Data Cleaning Project  
-
-More coming soon 🚀
-
----
 
 # 📫 Connect With Me
 
