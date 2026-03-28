@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/ERxxwrswAekAAAAj/bleach-coolboy.gif" width="400"/>
+  <img src="https://media.tenor.com/ERxxwrswAekAAAAj/bleach-coolboy.gif" width="250"/>
 </p>
 ---
 
