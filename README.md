@@ -6,9 +6,8 @@
 </p>
 
 
-
 <p align="center">
-  <img src="https://tenor.com/view/bleach-coolboy-gif-18352258" width="300"/>
+  <img src="https://media.tenor.com/images/6a0fbc0cb3e2c06c3dbe0b1a1a6c5e44/tenor.gif" width="400"/>
 </p>
 ---
 
