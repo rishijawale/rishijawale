@@ -5,6 +5,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Data+Analytics+Enthusiast;Machine+Learning+Learner;Building+Data+Projects+🚀" />
 </p>
 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Anime+Lover+⚔️;Building+Data+Projects;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/bleach-ichigo.gif" width="400"/>
+</p>
 ---
 
 # 🚀 About Me
@@ -17,10 +25,6 @@
 - 🌐 Portfolio: **https://datarushi.me**
 
 ---
-
-<p align="center">
-  <img src="https://media.tenor.com/W6mKZ5qX6SgAAAAC/ichigo-bankai.gif" width="500"/>
-</p>
 
 # 💻 Tech Stack
 
